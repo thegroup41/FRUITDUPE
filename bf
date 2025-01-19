@@ -31,7 +31,7 @@ local OtherScriptsSection = OtherScriptsTab:AddSection({ Name = "Other Hubs" })
 
 -- Script to Execute
 local function executeScript()
-    loadstring(game:HttpGet("https://pastebin.com/raw/dpNcLwhx"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/thegroup41/SMN3/refs/heads/main/BloxFruits",true))()
 end
 
 -- Dupe Fruit Feature
